@@ -1,0 +1,22 @@
+[
+    {
+        "icon": "//cdn.loomly.com/assets/social_logos/facebook-logo-round@2x-cd0c7ee46f539737c059ddc81df6213923d5203253b946807e79bf73c80ab6cc.png",
+        "name": "Facebook for Posts"
+    },
+    {
+        "icon": "//cdn.loomly.com/assets/social_logos/twitter-logo-round@2x-e9f41d3ec463d9430dd62659503c6f1e2181bb5143458783742d07a96021e243.png",
+        "name": "Twitter"
+    },
+    {
+        "icon": "//cdn.loomly.com/assets/social_logos/instagram-logo-round@2x-31ae5aea3041bef867000f221bb75fc7e2157161e77303c137d3bf1d3b9b391a.png",
+        "name": "Instagram"
+    },
+    {
+        "icon": "//cdn.loomly.com/assets/social_logos/linkedin-logo-round@2x-e13c1b74ccc8331fc488cae8a9fd1d9b076c8c6f0ba1dcb22435f0dd4e8f16d3.png",
+        "name": "LinkedIn"
+    },
+    {
+        "icon": "//cdn.loomly.com/assets/social_logos/google-logo-round@2x-ffff8a2bf6d689200f3052b207e26aca62bf76e25d050239b9644da9b1e0baa1.png",
+        "name": "Google"
+    }
+]
