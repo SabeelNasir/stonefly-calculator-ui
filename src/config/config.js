@@ -1,6 +1,6 @@
 
 export const apiUrl = process.env.NODE_ENV == 'development' ?
-    'http://localhost:3000/api' : 'https://stonefly-api.herokuapp.com/api'
+    'https://stonefly-api.herokuapp.com/api' : 'https://stonefly-api.herokuapp.com/api'
 
 /* App Related constants */
 const constants = {
